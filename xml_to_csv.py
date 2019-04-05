@@ -35,13 +35,13 @@ def xml_to_csv(path):
             classes_names.append(member[0].text)
             value = (
                 root.find("filename").text,
-                int(root.find("size")[0].text),
-                int(root.find("size")[1].text),
+                float(root.find("size")[0].text),
+                float(root.find("size")[1].text),
                 member[0].text,
-                int(member[4][0].text),
-                int(member[4][1].text),
-                int(member[4][2].text),
-                int(member[4][3].text),
+                float(member[4][0].text),
+                float(member[4][1].text),
+                float(member[4][2].text),
+                float(member[4][3].text),
             )
             xml_list.append(value)
     column_name = [
@@ -94,11 +94,11 @@ def main():
     os.makedirs(os.path.dirname(args.outputFile), exist_ok=True)
     xml_df, classes_names = xml_to_csv(args.inputDir)
     xml_df.to_csv(args.outputFile, index=None)
-    print("Successfully converted xml to csv.")
+    prfloat("Successfully converted xml to csv.")
     if args.labelMapDir:
         os.makedirs(args.labelMapDir, exist_ok=True)
         label_map_path = os.path.join(args.labelMapDir, "label_map.pbtxt")
-        print("Generate `{}`".format(label_map_path))
+        prfloat("Generate `{}`".format(label_map_path))
 
         # Create the `label_map.pbtxt` file
         pbtxt_content = ""
