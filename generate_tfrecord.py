@@ -107,24 +107,26 @@ def main(_):
     writer = tf.python_io.TFRecordWriter(FLAGS.output_path)
     path = os.path.join(os.getcwd(), FLAGS.img_path)
     examples = pd.read_csv(FLAGS.csv_input)
-
+    print("satır 110")
     # Load the `label_map` from pbtxt file.
     from object_detection.utils import label_map_util
-
+    print("satır 113")
     label_map = label_map_util.load_labelmap(FLAGS.label_map)
     categories = label_map_util.convert_label_map_to_categories(
         label_map, max_num_classes=90, use_display_name=True
     )
+    print("satır 118")
     category_index = label_map_util.create_category_index(categories)
     label_map = {}
     for k, v in category_index.items():
         label_map[v.get("name")] = v.get("id")
 
+    print("satır 124")
     grouped = split(examples, "filename")
     for group in grouped:
         tf_example = create_tf_example(group, path, label_map)
         writer.write(tf_example.SerializeToString())
-
+    print("satır 129")
     writer.close()
     output_path = os.path.join(os.getcwd(), FLAGS.output_path)
     print("Successfully created the TFRecords: {}".format(output_path))
