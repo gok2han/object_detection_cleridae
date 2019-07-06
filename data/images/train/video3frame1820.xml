@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yenietiket</folder>
+	<filename>video3frame1820.jpg</filename>
+	<path>E:\yenietiket\video3frame1820.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymin>328</ymin>
+			<xmax>939</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>
