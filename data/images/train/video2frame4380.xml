@@ -1,7 +1,7 @@
 <annotation>
-	<folder>yenietiket</folder>
+	<folder>train</folder>
 	<filename>video2frame4380.jpg</filename>
-	<path>E:\yenietiket\video2frame4380.jpg</path>
+	<path>C:\Users\Asus\Documents\Bayraktar tarafından verilenler\train\video2frame4380.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,43 +12,43 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>arac</name>
+		<name>kamyon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1575</xmin>
+			<xmin>1574</xmin>
 			<ymin>308</ymin>
-			<xmax>1783</xmax>
+			<xmax>1782</xmax>
 			<ymax>358</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1857</xmin>
-			<ymin>569</ymin>
+			<ymin>577</ymin>
 			<xmax>1920</xmax>
-			<ymax>602</ymax>
+			<ymax>610</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1051</xmin>
-			<ymin>421</ymin>
-			<xmax>1094</xmax>
-			<ymax>465</ymax>
+			<xmin>1057</xmin>
+			<ymin>420</ymin>
+			<xmax>1100</xmax>
+			<ymax>464</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,19 +72,19 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>514</xmin>
-			<ymin>626</ymin>
-			<xmax>587</xmax>
-			<ymax>669</ymax>
+			<xmin>512</xmin>
+			<ymin>625</ymin>
+			<xmax>585</xmax>
+			<ymax>668</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

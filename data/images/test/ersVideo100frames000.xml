@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>ismakinesi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>534</ymin>
+			<xmax>443</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>kamyonet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>191</xmin>
-			<ymin>593</ymin>
-			<xmax>233</xmax>
-			<ymax>618</ymax>
+			<xmin>192</xmin>
+			<ymin>588</ymin>
+			<xmax>235</xmax>
+			<ymax>614</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>496</xmin>
+			<xmin>494</xmin>
 			<ymin>339</ymin>
-			<xmax>540</xmax>
-			<ymax>361</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>ismakinesi</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>379</xmin>
-			<ymin>532</ymin>
-			<xmax>443</xmax>
-			<ymax>579</ymax>
+			<xmax>541</xmax>
+			<ymax>360</ymax>
 		</bndbox>
 	</object>
 </annotation>

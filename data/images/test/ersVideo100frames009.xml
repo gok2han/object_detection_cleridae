@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>696</xmin>
-			<ymin>123</ymin>
+			<xmin>697</xmin>
+			<ymin>126</ymin>
 			<xmax>744</xmax>
-			<ymax>154</ymax>
+			<ymax>151</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>ismakinesi</name>
+		<name>kamyon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>917</xmin>
-			<ymin>235</ymin>
-			<xmax>954</xmax>
-			<ymax>262</ymax>
+			<xmin>575</xmin>
+			<ymin>266</ymin>
+			<xmax>618</xmax>
+			<ymax>309</ymax>
 		</bndbox>
 	</object>
 </annotation>

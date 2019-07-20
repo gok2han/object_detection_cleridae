@@ -1,7 +1,7 @@
 <annotation>
-	<folder>yenietiket</folder>
+	<folder>train</folder>
 	<filename>video4frame288.jpg</filename>
-	<path>E:\yenietiket\video4frame288.jpg</path>
+	<path>C:\Users\Asus\Documents\Bayraktar tarafından verilenler\train\video4frame288.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,31 +12,31 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>arac</name>
+		<name>kamyon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>291</xmin>
-			<ymin>458</ymin>
-			<xmax>375</xmax>
-			<ymax>567</ymax>
+			<xmin>292</xmin>
+			<ymin>457</ymin>
+			<xmax>376</xmax>
+			<ymax>566</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>kamyon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>600</xmin>
-			<ymin>188</ymin>
+			<ymin>186</ymin>
 			<xmax>666</xmax>
-			<ymax>285</ymax>
+			<ymax>283</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>ismakinesi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,31 +48,31 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>923</xmin>
-			<ymin>44</ymin>
-			<xmax>957</xmax>
-			<ymax>83</ymax>
+			<xmin>921</xmin>
+			<ymin>45</ymin>
+			<xmax>955</xmax>
+			<ymax>84</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>882</xmin>
-			<ymin>303</ymin>
-			<xmax>923</xmax>
-			<ymax>360</ymax>
+			<xmin>883</xmin>
+			<ymin>301</ymin>
+			<xmax>924</xmax>
+			<ymax>358</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>kamyon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,19 +96,19 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>kamyon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1194</xmin>
-			<ymin>28</ymin>
-			<xmax>1301</xmax>
-			<ymax>67</ymax>
+			<xmin>1188</xmin>
+			<ymin>36</ymin>
+			<xmax>1295</xmax>
+			<ymax>75</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>kamyon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -120,19 +120,19 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>traktor</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1707</xmin>
-			<ymin>24</ymin>
-			<xmax>1783</xmax>
-			<ymax>56</ymax>
+			<xmin>1709</xmin>
+			<ymin>22</ymin>
+			<xmax>1785</xmax>
+			<ymax>54</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -144,7 +144,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -156,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>ismakinesi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>ismakinesi</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -180,7 +180,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>kamyon</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -192,7 +192,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>kamyon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -201,6 +201,30 @@
 			<ymin>19</ymin>
 			<xmax>1689</xmax>
 			<ymax>56</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>insan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1822</xmin>
+			<ymin>72</ymin>
+			<xmax>1832</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>insan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1288</xmin>
+			<ymin>20</ymin>
+			<xmax>1300</xmax>
+			<ymax>35</ymax>
 		</bndbox>
 	</object>
 </annotation>

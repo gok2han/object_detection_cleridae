@@ -35,4 +35,16 @@
 			<ymax>181</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>549</xmin>
+			<ymin>29</ymin>
+			<xmax>624</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
 </annotation>

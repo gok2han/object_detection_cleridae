@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ersinVideo50</folder>
+	<filename>ersVideo120frames028.jpeg</filename>
+	<path>C:\Users\Asus\Documents\yzAsus\tf\Yeni klasör\ersinVideo50\ersVideo120frames028.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>134</ymin>
+			<xmax>873</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>yenietiket</folder>
+	<folder>train</folder>
 	<filename>video3frame8984.jpg</filename>
-	<path>E:\yenietiket\video3frame8984.jpg</path>
+	<path>C:\Users\Asus\Documents\Bayraktar tarafından verilenler\train\video3frame8984.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,26 +24,26 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>353</xmin>
-			<ymin>279</ymin>
-			<xmax>426</xmax>
-			<ymax>328</ymax>
+			<xmin>354</xmin>
+			<ymin>277</ymin>
+			<xmax>427</xmax>
+			<ymax>326</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>728</xmin>
+			<xmin>729</xmin>
 			<ymin>715</ymin>
-			<xmax>782</xmax>
+			<xmax>783</xmax>
 			<ymax>779</ymax>
 		</bndbox>
 	</object>

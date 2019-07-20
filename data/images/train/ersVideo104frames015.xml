@@ -35,4 +35,16 @@
 			<ymax>369</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>kamyonet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>758</xmin>
+			<ymin>584</ymin>
+			<xmax>895</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>yenietiket</folder>
+	<folder>test</folder>
 	<filename>video3frame7960.jpg</filename>
-	<path>E:\yenietiket\video3frame7960.jpg</path>
+	<path>C:\Users\Asus\Documents\Bayraktar tarafından verilenler\test\video3frame7960.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,14 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>969</xmin>
+			<xmin>973</xmin>
 			<ymin>679</ymin>
-			<xmax>1023</xmax>
+			<xmax>1027</xmax>
 			<ymax>762</ymax>
 		</bndbox>
 	</object>

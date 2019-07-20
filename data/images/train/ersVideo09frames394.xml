@@ -23,4 +23,28 @@
 			<ymax>518</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>kamyonet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>93</ymin>
+			<xmax>467</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>otobus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>77</ymin>
+			<xmax>130</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
 </annotation>

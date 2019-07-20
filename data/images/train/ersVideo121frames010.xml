@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ersinVideo50</folder>
+	<filename>ersVideo121frames010.jpeg</filename>
+	<path>C:\Users\Asus\Documents\yzAsus\tf\Yeni klasör\ersinVideo50\ersVideo121frames010.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traktor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>492</xmin>
+			<ymin>327</ymin>
+			<xmax>683</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+</annotation>

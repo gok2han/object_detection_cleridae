@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ersinVideo50</folder>
+	<filename>ersVideo20frames086.jpeg</filename>
+	<path>C:\Users\Asus\Documents\yzAsus\tf\Yeni klasör\ersinVideo50\ersVideo20frames086.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kamyonet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>301</ymin>
+			<xmax>954</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>insan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>401</ymin>
+			<xmax>656</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

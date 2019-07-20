@@ -1,7 +1,7 @@
 <annotation>
-	<folder>yenietiket</folder>
+	<folder>train</folder>
 	<filename>video3frame4508.jpg</filename>
-	<path>E:\yenietiket\video3frame4508.jpg</path>
+	<path>C:\Users\Asus\Documents\Bayraktar tarafından verilenler\train\video3frame4508.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>arac</name>
+		<name>otobus</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,31 +24,31 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>737</xmin>
-			<ymin>369</ymin>
-			<xmax>801</xmax>
-			<ymax>412</ymax>
+			<xmin>735</xmin>
+			<ymin>365</ymin>
+			<xmax>799</xmax>
+			<ymax>408</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>908</xmin>
+			<xmin>907</xmin>
 			<ymin>226</ymin>
-			<xmax>976</xmax>
+			<xmax>975</xmax>
 			<ymax>265</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>kamyonet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>otobus</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,26 +72,26 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1275</xmin>
-			<ymin>412</ymin>
+			<ymin>410</ymin>
 			<xmax>1351</xmax>
-			<ymax>454</ymax>
+			<ymax>452</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>kamyon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1596</xmin>
+			<xmin>1595</xmin>
 			<ymin>460</ymin>
-			<xmax>1701</xmax>
+			<xmax>1700</xmax>
 			<ymax>508</ymax>
 		</bndbox>
 	</object>

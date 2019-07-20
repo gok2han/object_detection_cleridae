@@ -1,7 +1,7 @@
 <annotation>
-	<folder>yenietiket</folder>
+	<folder>train</folder>
 	<filename>video1frame1284.jpg</filename>
-	<path>E:\yenietiket\video1frame1284.jpg</path>
+	<path>C:\Users\Asus\Documents\Bayraktar tarafından verilenler\20temmuzEtiketlenmis\train\video1frame1284.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>arac</name>
+		<name>traktor</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>ismakinesi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,14 +36,14 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>kamyon</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1542</xmin>
+			<xmin>1593</xmin>
 			<ymin>1</ymin>
-			<xmax>1585</xmax>
+			<xmax>1636</xmax>
 			<ymax>52</ymax>
 		</bndbox>
 	</object>

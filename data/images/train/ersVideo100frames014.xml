@@ -23,4 +23,28 @@
 			<ymax>403</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>ismakinesi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>282</ymin>
+			<xmax>400</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>traktor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>858</xmin>
+			<ymin>337</ymin>
+			<xmax>892</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
 </annotation>

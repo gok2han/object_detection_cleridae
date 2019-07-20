@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ersinVideo50</folder>
+	<filename>ersVideo20frames000.jpeg</filename>
+	<path>C:\Users\Asus\Documents\yzAsus\tf\Yeni klasör\ersinVideo50\ersVideo20frames000.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>192</ymin>
+			<xmax>604</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

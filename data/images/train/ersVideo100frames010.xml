@@ -35,4 +35,16 @@
 			<ymax>367</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>kamyon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>515</xmin>
+			<ymin>343</ymin>
+			<xmax>543</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
 </annotation>

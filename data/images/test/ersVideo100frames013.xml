@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>823</xmin>
-			<ymin>366</ymin>
-			<xmax>904</xmax>
-			<ymax>398</ymax>
+			<xmin>824</xmin>
+			<ymin>368</ymin>
+			<xmax>903</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>traktor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>891</xmin>
+			<ymin>315</ymin>
+			<xmax>919</xmax>
+			<ymax>330</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>411</xmin>
-			<ymin>371</ymin>
-			<xmax>439</xmax>
-			<ymax>412</ymax>
+			<xmin>406</xmin>
+			<ymin>376</ymin>
+			<xmax>436</xmax>
+			<ymax>415</ymax>
 		</bndbox>
 	</object>
 </annotation>

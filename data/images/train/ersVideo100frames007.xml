@@ -23,4 +23,28 @@
 			<ymax>151</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>traktor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>192</ymin>
+			<xmax>430</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kamyon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>893</xmin>
+			<ymin>238</ymin>
+			<xmax>962</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
 </annotation>

@@ -35,4 +35,16 @@
 			<ymax>355</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>traktor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>755</xmin>
+			<ymin>328</ymin>
+			<xmax>781</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
 </annotation>

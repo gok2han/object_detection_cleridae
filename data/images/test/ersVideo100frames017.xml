@@ -12,27 +12,39 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>ismakinesi</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>691</xmin>
-			<ymin>652</ymin>
-			<xmax>749</xmax>
-			<ymax>689</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>kamyon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>679</xmin>
-			<ymin>260</ymin>
-			<xmax>727</xmax>
-			<ymax>296</ymax>
+			<xmin>677</xmin>
+			<ymin>264</ymin>
+			<xmax>725</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>traktor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>732</xmin>
+			<ymin>327</ymin>
+			<xmax>758</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ismakinesi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>687</xmin>
+			<ymin>651</ymin>
+			<xmax>744</xmax>
+			<ymax>688</ymax>
 		</bndbox>
 	</object>
 </annotation>
