@@ -1,0 +1,40 @@
+<annotation>
+	<folder>teknofest1</folder>
+	<filename>B23072019_V1_K1-2774-frame13092.jpg</filename>
+	<path>edu/teknofest1/B23072019_V1_K1-2774-frame13092.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+    <object>
+		<name>arac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>668</xmin>
+			<ymin>946</ymin>
+			<xmax>732</xmax>
+			<ymax>1055</ymax>
+		</bndbox>
+	</object>
+    <object>
+		<name>insan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1856</xmin>
+			<ymin>964</ymin>
+			<xmax>1900</xmax>
+			<ymax>1014</ymax>
+		</bndbox>
+	</object>
+    
+    </annotation>
+    
