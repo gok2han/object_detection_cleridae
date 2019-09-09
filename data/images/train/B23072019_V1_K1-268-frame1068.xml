@@ -1,7 +1,7 @@
 <annotation>
-	<folder>haydi_hayirlisi</folder>
+	<folder>train</folder>
 	<filename>B23072019_V1_K1-268-frame1068.jpg</filename>
-	<path>C:\Users\Asus\Documents\haydi_hayirlisi\B23072019_V1_K1-268-frame1068.jpg</path>
+	<path>C:\Users\Asus\Documents\gitHub\technof\data\images\train\B23072019_V1_K1-268-frame1068.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,50 +24,14 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>insan</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1324</xmin>
-			<ymin>816</ymin>
-			<xmax>1363</xmax>
-			<ymax>855</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>insan</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>993</xmin>
-			<ymin>417</ymin>
-			<xmax>1034</xmax>
-			<ymax>455</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>insan</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>912</xmin>
-			<ymin>302</ymin>
-			<xmax>942</xmax>
-			<ymax>342</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>arac</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>528</xmin>
-			<ymin>155</ymin>
-			<xmax>591</xmax>
+			<ymin>165</ymin>
+			<xmax>575</xmax>
 			<ymax>222</ymax>
 		</bndbox>
 	</object>
@@ -81,6 +45,18 @@
 			<ymin>384</ymin>
 			<xmax>678</xmax>
 			<ymax>440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>insan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>936</xmin>
+			<ymin>705</ymin>
+			<xmax>965</xmax>
+			<ymax>726</ymax>
 		</bndbox>
 	</object>
 </annotation>

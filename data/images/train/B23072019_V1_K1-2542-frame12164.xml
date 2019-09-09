@@ -1,7 +1,7 @@
 <annotation>
-	<folder>teknofest1</folder>
+	<folder>train</folder>
 	<filename>B23072019_V1_K1-2542-frame12164.jpg</filename>
-	<path>edu/teknofest1/B23072019_V1_K1-2542-frame12164.jpg</path>
+	<path>C:\Users\Asus\Documents\gitHub\technof\data\images\train\B23072019_V1_K1-2542-frame12164.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,7 +11,7 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-    <object>
+	<object>
 		<name>arac</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -23,19 +23,19 @@
 			<ymax>474</ymax>
 		</bndbox>
 	</object>
-    <object>
+	<object>
 		<name>arac</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>688</xmin>
+			<xmin>676</xmin>
 			<ymin>995</ymin>
 			<xmax>771</xmax>
-			<ymax>1079</ymax>
+			<ymax>1080</ymax>
 		</bndbox>
 	</object>
-    <object>
+	<object>
 		<name>arac</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -47,6 +47,4 @@
 			<ymax>271</ymax>
 		</bndbox>
 	</object>
-    
-    </annotation>
-    
+</annotation>

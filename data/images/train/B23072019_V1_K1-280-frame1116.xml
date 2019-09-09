@@ -1,7 +1,7 @@
 <annotation>
-	<folder>teknofest1</folder>
+	<folder>train</folder>
 	<filename>B23072019_V1_K1-280-frame1116.jpg</filename>
-	<path>edu/teknofest1/B23072019_V1_K1-280-frame1116.jpg</path>
+	<path>C:\Users\Asus\Documents\gitHub\technof\data\images\train\B23072019_V1_K1-280-frame1116.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,7 +11,7 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-    <object>
+	<object>
 		<name>arac</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -23,30 +23,52 @@
 			<ymax>769</ymax>
 		</bndbox>
 	</object>
-    <object>
+	<object>
 		<name>insan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1033</xmin>
-			<ymin>500</ymin>
-			<xmax>1070</xmax>
-			<ymax>539</ymax>
+			<xmin>914</xmin>
+			<ymin>853</ymin>
+			<xmax>932</xmax>
+			<ymax>876</ymax>
 		</bndbox>
 	</object>
-    <object>
-		<name>insan</name>
+	<object>
+		<name>arac</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>942</xmin>
-			<ymin>374</ymin>
-			<xmax>971</xmax>
-			<ymax>414</ymax>
+			<xmin>655</xmin>
+			<ymin>454</ymin>
+			<xmax>711</xmax>
+			<ymax>537</ymax>
 		</bndbox>
 	</object>
-    
-    </annotation>
-    
+	<object>
+		<name>arac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>552</xmin>
+			<ymin>226</ymin>
+			<xmax>597</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymin>30</ymin>
+			<xmax>500</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

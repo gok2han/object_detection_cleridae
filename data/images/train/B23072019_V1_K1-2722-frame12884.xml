@@ -1,7 +1,7 @@
 <annotation>
-	<folder>haydi_hayirlisi</folder>
+	<folder>train</folder>
 	<filename>B23072019_V1_K1-2722-frame12884.jpg</filename>
-	<path>C:\Users\Asus\Documents\haydi_hayirlisi\B23072019_V1_K1-2722-frame12884.jpg</path>
+	<path>C:\Users\Asus\Documents\gitHub\technof\data\images\train\B23072019_V1_K1-2722-frame12884.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>14</xmin>
 			<ymin>677</ymin>
-			<xmax>112</xmax>
-			<ymax>785</ymax>
+			<xmax>113</xmax>
+			<ymax>772</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,7 +55,7 @@
 		<bndbox>
 			<xmin>1712</xmin>
 			<ymin>268</ymin>
-			<xmax>1821</xmax>
+			<xmax>1804</xmax>
 			<ymax>312</ymax>
 		</bndbox>
 	</object>

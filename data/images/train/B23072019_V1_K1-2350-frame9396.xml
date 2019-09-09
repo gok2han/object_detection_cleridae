@@ -1,7 +1,7 @@
 <annotation>
-	<folder>teknofest1</folder>
+	<folder>train</folder>
 	<filename>B23072019_V1_K1-2350-frame9396.jpg</filename>
-	<path>edu/teknofest1/B23072019_V1_K1-2350-frame9396.jpg</path>
+	<path>C:\Users\Asus\Documents\gitHub\technof\data\images\train\B23072019_V1_K1-2350-frame9396.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,6 +11,16 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-    
-    </annotation>
-    
+	<object>
+		<name>insan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1573</xmin>
+			<ymin>217</ymin>
+			<xmax>1593</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

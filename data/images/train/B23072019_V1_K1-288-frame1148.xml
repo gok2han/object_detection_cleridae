@@ -1,7 +1,7 @@
 <annotation>
-	<folder>teknofest1</folder>
+	<folder>train</folder>
 	<filename>B23072019_V1_K1-288-frame1148.jpg</filename>
-	<path>edu/teknofest1/B23072019_V1_K1-288-frame1148.jpg</path>
+	<path>C:\Users\Asus\Documents\gitHub\technof\data\images\train\B23072019_V1_K1-288-frame1148.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,19 +11,7 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-    <object>
-		<name>insan</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1407</xmin>
-			<ymin>988</ymin>
-			<xmax>1447</xmax>
-			<ymax>1028</ymax>
-		</bndbox>
-	</object>
-    <object>
+	<object>
 		<name>arac</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -35,31 +23,7 @@
 			<ymax>836</ymax>
 		</bndbox>
 	</object>
-    <object>
-		<name>insan</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1054</xmin>
-			<ymin>560</ymin>
-			<xmax>1089</xmax>
-			<ymax>600</ymax>
-		</bndbox>
-	</object>
-    <object>
-		<name>insan</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1109</xmin>
-			<ymin>614</ymin>
-			<xmax>1143</xmax>
-			<ymax>659</ymax>
-		</bndbox>
-	</object>
-    <object>
+	<object>
 		<name>arac</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -71,18 +35,40 @@
 			<ymax>335</ymax>
 		</bndbox>
 	</object>
-    <object>
-		<name>insan</name>
+	<object>
+		<name>arac</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1350</xmin>
-			<ymin>920</ymin>
-			<xmax>1388</xmax>
-			<ymax>962</ymax>
+			<xmin>665</xmin>
+			<ymin>519</ymin>
+			<xmax>715</xmax>
+			<ymax>602</ymax>
 		</bndbox>
 	</object>
-    
-    </annotation>
-    
+	<object>
+		<name>arac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>68</ymin>
+			<xmax>511</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arac</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>442</xmin>
+			<ymin>1</ymin>
+			<xmax>470</xmax>
+			<ymax>41</ymax>
+		</bndbox>
+	</object>
+</annotation>
