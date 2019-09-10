@@ -1,7 +1,7 @@
 <annotation>
-	<folder>hadi_hayirlisi</folder>
+	<folder>test</folder>
 	<filename>T190619_V4_K1-4325-frame4444.jpg</filename>
-	<path>/Users/Burakhan/Backups/teknofest/research/object_detection/edu/hadi_hayirlisi/T190619_V4_K1-4325-frame4444.jpg</path>
+	<path>C:\Users\Asus\Documents\gitHub\technof\data\images\test\T190619_V4_K1-4325-frame4444.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>arac</name>
+		<name>araba</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
