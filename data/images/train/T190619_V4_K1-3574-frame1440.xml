@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>T190619_V4_K1-3574-frame1440.jpg</filename>
+	<path>C:\Users\Asus\Desktop\1ler3ler4ler\train\T190619_V4_K1-3574-frame1440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kamyon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1270</xmin>
+			<ymin>303</ymin>
+			<xmax>1407</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

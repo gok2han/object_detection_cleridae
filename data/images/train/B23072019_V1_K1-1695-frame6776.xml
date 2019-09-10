@@ -1,0 +1,40 @@
+<annotation>
+	<folder>teknofest1</folder>
+	<filename>B23072019_V1_K1-1695-frame6776.jpg</filename>
+	<path>edu/teknofest1/B23072019_V1_K1-1695-frame6776.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+    <object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>209</ymin>
+			<xmax>301</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+    <object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>485</ymin>
+			<xmax>445</xmax>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+    
+    </annotation>
+    
