@@ -1,13 +1,13 @@
 <annotation>
-	<folder>insan</folder>
-	<filename>e41.jpg</filename>
-	<path>C:\Users\Asus\Documents\insan\e41.jpg</path>
+	<folder>test</folder>
+	<filename>e15.jpg</filename>
+	<path>C:\Users\Asus\Documents\gitHub\technof\data\images\test\e15.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1514</width>
-		<height>858</height>
+		<width>1851</width>
+		<height>853</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>794</xmin>
-			<ymin>475</ymin>
-			<xmax>850</xmax>
-			<ymax>511</ymax>
+			<xmin>633</xmin>
+			<ymin>412</ymin>
+			<xmax>714</xmax>
+			<ymax>447</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>918</xmin>
-			<ymin>396</ymin>
-			<xmax>953</xmax>
-			<ymax>433</ymax>
+			<xmin>681</xmin>
+			<ymin>466</ymin>
+			<xmax>750</xmax>
+			<ymax>499</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1054</xmin>
-			<ymin>65</ymin>
-			<xmax>1076</xmax>
-			<ymax>94</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>kamyon</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>531</xmin>
-			<ymin>436</ymin>
-			<xmax>673</xmax>
-			<ymax>500</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>kamyon</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>964</xmin>
-			<ymin>229</ymin>
-			<xmax>1019</xmax>
-			<ymax>323</ymax>
+			<xmin>1376</xmin>
+			<ymin>469</ymin>
+			<xmax>1444</xmax>
+			<ymax>503</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>85</xmin>
-			<ymin>810</ymin>
-			<xmax>143</xmax>
-			<ymax>849</ymax>
+			<xmin>1477</xmin>
+			<ymin>685</ymin>
+			<xmax>1540</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>araba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1287</xmin>
+			<ymin>43</ymin>
+			<xmax>1364</xmax>
+			<ymax>143</ymax>
 		</bndbox>
 	</object>
 </annotation>
