@@ -1,0 +1,26 @@
+<annotation>
+	<folder>insan</folder>
+	<filename>eskilerden5jpg.jpg</filename>
+	<path>C:\Users\Asus\Documents\insan\eskilerden5jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>711</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kamyon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>717</xmin>
+			<ymin>332</ymin>
+			<xmax>801</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+</annotation>
